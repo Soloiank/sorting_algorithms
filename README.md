@@ -1,5 +1,5 @@
 C - Sorting algorithms & Big O
-This is an algorithm-based project in C Programming Language, by Ayomide Suara and Mohamed Ibrahima Traore during the Full Stack Software Engineering studies at ALX. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
+This is an algorithm-based project in C Programming Language, by Bii Solomon during the Full Stack Software Engineering studies at ALX. Several sorting algorithms are implemented, as well as their corresponding Big O notations.
 
 Tests heavy_check_mark
 tests: Folder of test files.
@@ -139,4 +139,4 @@ Prints the array after each swap.
 Assumes that there are exactly 52 elements in the doubly-linked list.
 Orders the deck from spades to diamonds and from aces to kings.
 Author
-GiddyLesGid
+Bii Solomon
